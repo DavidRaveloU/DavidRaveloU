@@ -1,5 +1,5 @@
 ### Hi!, I'm David <img src="https://user-images.githubusercontent.com/79340743/162650994-6456efad-4f5e-4784-9715-429c9fd7a753.gif" width="20"/>
-<img src="https://user-images.githubusercontent.com/79340743/162651439-7769de9e-4f08-4ab5-b36b-90456fc3950a.jpg"/>
+<img src="https://user-images.githubusercontent.com/79340743/162722118-3d9b1972-1914-4b4f-8c08-5cff70c5066b.jpg"/>
 
 <p align="justify"> 
 Software engineering student at 'Universidad Popular del Cesar', Currently in the 5th semester. <br>
