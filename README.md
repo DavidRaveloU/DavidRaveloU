@@ -17,9 +17,6 @@ Additional information<br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=davidravelou&;show_icons=true&amp;theme=dracula&amp;include_all_commits=true&amp;count_private=true" alt="davidravelou" />
 </p>
 
-<p align="center"> 
-<img src="https://metrics.lecoq.io/DavidRaveloU" /> 
-</p>
 
 <p align="center"> 
 <img src="https://user-images.githubusercontent.com/79340743/162651521-9677ec3f-92c3-4aac-a679-55a07804e6e7.svg"/> 
