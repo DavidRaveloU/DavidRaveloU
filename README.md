@@ -23,6 +23,6 @@ Additional information<br>
 </p>
 
 <p align="center"> 
-<a href="https://twitter.com/DavidRavelo" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt='twitter' height='40'></a>
+<a href="https://twitter.com/DavidRavelo0" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt='twitter' height='40'></a>
 <a href="https://www.reddit.com/user/DavidRavelo" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg" alt='Reddit' height='40'></a>
 </p>
