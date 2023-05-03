@@ -2,7 +2,7 @@
 <img src="https://user-images.githubusercontent.com/79340743/162722118-3d9b1972-1914-4b4f-8c08-5cff70c5066b.jpg"/>
 
 <p align="justify">
-Software engineering student at 'Universidad Popular del Cesar', Currently in the 5th semester. <br>
+Software engineering student at 'Universidad Popular del Cesar', Currently in the 7th semester. <br>
 I'm a person to whom fascinate programming. <br><br>
 Additional information<br>
 - 🔭 I’m currently working on University projects <br>
