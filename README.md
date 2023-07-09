@@ -2,7 +2,7 @@
 ## Here's a little about me:
 - I am a systems engineering student
 - Systems engineer with a passion for technology and its practical application
-- Student of the <a href="https://www.unicesar.edu.co/index.php/es/">Universidad Popular del Cesar</a>
+- Student of the <a href="https://www.unicesar.edu.co/index.php/es/" target="_blank">Universidad Popular del Cesar</a>
 - I like to learn about many languages
 
 <p>Programming, to me, is like a universal language that allows me to express my creativity and efficiently solve problems. I'm thrilled to learn about the core concepts of Systems Engineering and how to apply them in the real world. I enjoy exploring different programming languages and discovering new approaches to tackle technical challenges.</p>
