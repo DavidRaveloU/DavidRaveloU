@@ -9,31 +9,21 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/davidravelo0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="davidravelo0" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/david-ravelo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="david-ravelo" height="30" width="40" /></a>
-<a href="https://instagram.com/davidravelo15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="davidravelo15" height="30" width="40" /></a>
+<a href="https://instagram.com/davidravelo15" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram&theme=dark"" alt="David Ravelo" height="45" width="45" /></a>
+<a href="https://twitter.com/davidravelo0" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter&theme=dark"" alt="David Ravelo" height="45" width="45" /></a>
+<a href="https://linkedin.com/in/david-ravelo" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin&theme=dark"" alt="David Ravelo" height="45" width="45" /></a>
 <a href="https://dribbble.com/davidravelo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="davidravelo" height="30" width="40" /></a>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> </p>
+<a href="#">
+    <img src="https://skillicons.dev/icons?i=dart,flutter,vscode,visualstudio,figma,matlab,cs,java,github&theme=dark" />
+</a>
 
 
 <h3 align="left">Stats:</h3>
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=davidravelou&theme=dark&show_icons=true&locale=en&layout=compact" alt="davidravelou" /></p>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-</p>
 
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidravelou&theme=dark&show_icons=true)
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=davidravelou&theme=dark&show_icons=true&locale=en&layout=compact" alt="davidravelou" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=davidravelou&theme=dark&show" alt="davidravelou" /></p>
 
 
 <p align="center"> 
