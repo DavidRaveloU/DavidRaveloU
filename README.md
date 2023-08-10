@@ -19,13 +19,10 @@
     <img src="https://skillicons.dev/icons?i=dart,flutter,vscode,visualstudio,figma,matlab,cs,java,github&theme=dark" />
 </a>
 
-
-<h3 align="left">Stats:</h3>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=davidravelou&theme=dark&show_icons=true&locale=en&layout=compact" alt="davidravelou" /></p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=davidravelou&theme=dark&show" alt="davidravelou" /></p>
-
+<h3 align="left">You can help me by Donating:</h3>
+<a href="https://www.buymeacoffee.com/davidravelo"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
 <p align="center"> 
 <img src="https://user-images.githubusercontent.com/79340743/162651521-9677ec3f-92c3-4aac-a679-55a07804e6e7.svg"/> 
 </p>
+
