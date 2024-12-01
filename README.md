@@ -1,28 +1,23 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=120&pause=1000&color=F7F7F7&background=000000&center=true&vCenter=true&width=1920&height=700&lines=%F0%9F%91%8B+Hello!+I'm+David;I'm+a+Developer;I'm+a+Freelancer;I'm+a+Designer)](https://git.io/typing-svg)
-## Here's a little about me:
-- I am a systems engineering student
-- Systems engineer with a passion for technology and its practical application
-- Student of the <a href="https://www.unicesar.edu.co/index.php/es/" target="_blank">Universidad Popular del Cesar</a>
-- I like to learn about many languages
+<div align="center">
 
-<p>Programming, to me, is like a universal language that allows me to express my creativity and efficiently solve problems. I'm thrilled to learn about the core concepts of Systems Engineering and how to apply them in the real world. I enjoy exploring different programming languages and discovering new approaches to tackle technical challenges.</p>
+<img src="https://readme-typing-svg.herokuapp.com?&font=Inconsolata&weight=500&size=40&center=true&vCenter=true&repeat=false&multiline=true&color=A7A459&width=1300&height=140&lines=Hi,+I'm+David;I+do+open+source" width="70%" />
+<br>
+        
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-ravelo)
+[![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/davidravelo15/)
+[![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/DavidRavelo0)
+[![](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/davidravelo)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/davidravelo15" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram&theme=dark"" alt="David Ravelo" height="45" width="45" /></a>
-<a href="https://twitter.com/davidravelo0" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter&theme=dark"" alt="David Ravelo" height="45" width="45" /></a>
-<a href="https://linkedin.com/in/david-ravelo" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin&theme=dark"" alt="David Ravelo" height="45" width="45" /></a>
-<a href="https://dribbble.com/davidravelo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="davidravelo" height="30" width="40" /></a>
 
-<h3 align="left">Languages and Tools:</h3>
-<a href="#">
-    <img src="https://skillicons.dev/icons?i=dart,flutter,vscode,visualstudio,figma,matlab,cs,java,github&theme=dark" />
-</a>
 
-<h3 align="left">You can help me by Donating:</h3>
-<a href="https://www.buymeacoffee.com/davidravelo"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<img align="left" height="150" width="150" src="https://github.com/user-attachments/assets/f4e12599-bca8-4956-ba2d-85a337d81ffc"/>
+<pre align="left">
+  🔧 Passionate about building smart solutions.
+  🌱 Always exploring new technologies.
+  🌍 Committed to making a positive impact through tech.
+  🧩 Enjoy solving complex problems creatively.
+  🚀 Creating the future, one project at a time.
+  💡 Constantly looking to improve and reinvent.
+</pre>
 
-<p align="center"> 
-<img src="https://user-images.githubusercontent.com/79340743/162651521-9677ec3f-92c3-4aac-a679-55a07804e6e7.svg"/> 
-</p>
-
+</div>
